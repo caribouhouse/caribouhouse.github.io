@@ -39,13 +39,13 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/IMG_9946.jpg': 'center',
-							'images/IMG_9947.jpg': 'center',
-							'images/_MG_9974.jpg': 'center',
-							'images/_MG_9976.jpg': 'center',
-							'images/IMG_9969.jpg': 'center',
-							'images/IMG_9975.jpg': 'center',
-							'images/IMG_9954.jpg': 'center',
+							'images/IMG_9946.JPG': 'center',
+							'images/IMG_9947.JPG': 'center',
+							'images/_MG_9974.JPG': 'center',
+							'images/_MG_9976.JPG': 'center',
+							'images/IMG_9969.JPG': 'center',
+							'images/IMG_9975.JPG': 'center',
+							'images/IMG_9954.JPG': 'center',
 						},
 
 					// Delay.
